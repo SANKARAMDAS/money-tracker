@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/money-tracker/static/css/main.5f755c84.css",
+    "main.js": "/money-tracker/static/js/main.71d768ec.js",
+    "static/js/787.23d124b2.chunk.js": "/money-tracker/static/js/787.23d124b2.chunk.js",
+    "index.html": "/money-tracker/index.html",
+    "main.5f755c84.css.map": "/money-tracker/static/css/main.5f755c84.css.map",
+    "main.71d768ec.js.map": "/money-tracker/static/js/main.71d768ec.js.map",
+    "787.23d124b2.chunk.js.map": "/money-tracker/static/js/787.23d124b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f755c84.css",
+    "static/js/main.71d768ec.js"
+  ]
+}
