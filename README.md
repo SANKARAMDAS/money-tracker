@@ -1,7 +1,8 @@
 Money Tracking app using MERN(MongoDB,Express,React,NodeJs).
 
 
-Clone this project, goto the .env file under money-tracker folder, use "REACT_APP_APU_URL" and set your localhost for BackEnd 
+Clone this project, goto the .env file under money-tracker folder, use "REACT_APP_APU_URL" and set your localhost for BackEnd.
+
 Now Go to the api folder and there is also and .env file for "MONGO_URL"(go to the Mongo Atlast and set up your project copy the url and key) and past it here.
 
 
