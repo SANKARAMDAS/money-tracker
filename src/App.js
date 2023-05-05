@@ -46,7 +46,7 @@ function App() {
 
   return (
     <main>
-      <h1>${balance}<span>.00</span></h1>
+      <h1>${balance}<span>.000</span></h1>
       <form onSubmit={addNewTransaction}>
           <div className='basic'>
               <input type='text'
@@ -62,7 +62,7 @@ function App() {
                      onChange={(e)=>setDescription(e.target.value)}
                      type='text' placeholder={'description'}/>
           </div>
-          <button type='submit'>Add new Transaction</button>
+          <button type='submit'>Add New Transaction</button>
       </form>
         <div className='transactions'>
             {transactions.length > 0 && transactions.map(transaction => (
